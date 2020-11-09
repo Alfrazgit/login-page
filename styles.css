@@ -1,0 +1,20 @@
+html{
+  text-align: center;
+  margin: 100px 0 0 0;
+}
+
+.login{
+  margin: 0 auto;
+  text-align: center;
+  padding: 40px 0;
+}
+
+.form-1{
+  text-align: left;
+  margin: 60px 80px;
+}
+
+.alfraz{
+  color: #69deff;
+  font-family: 'Dancing Script', cursive;
+}
